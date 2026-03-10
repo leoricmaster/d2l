@@ -1,2 +1,3 @@
-# didl
-dive into deep learning
+# d2l
+
+[Dive into Deep Learning](https://d2l.ai/)
