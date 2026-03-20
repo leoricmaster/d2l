@@ -1,0 +1,19 @@
+# Ignore everything
+*
+
+# But not .ipynb files
+!*.ipynb
+
+# And not .md files
+!*.md
+
+# And not .claude directory
+!.claude/
+!.claude/**
+
+# And not .vscode directory
+!.vscode/
+!.vscode/**
+
+# And not .gitignore itself
+!.gitignore
